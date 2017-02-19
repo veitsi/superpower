@@ -1,0 +1,4 @@
+.idea/
+dist/
+superpower.egg-info/
+superpower/__pycache__/
